@@ -154,3 +154,8 @@ results_tables/<input_string>.pkl
 | `test_results/` | Per-sample prediction TIFFs and metadata JSON (saved by `save_test_results`) |
  
 ---
+
+## SmokeViz dataset
+
+The dataset can be accessed at [aws link](https://noaa-gsl-experimental-pds.s3.amazonaws.com/index.html#SmokeViz/).
+
