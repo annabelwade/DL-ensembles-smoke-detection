@@ -5,7 +5,16 @@ This repository contains the code for the paper **"Improving Satellite-based Wil
 This project trains and evaluates deep ensembles to enhance the accuracy of GOES satellite-based wildfire smoke detection.
 
 ## Paper Citation
-
+```
+@inproceedings{
+wade2026improving,
+title={Improving Satellite-based Wildfire Smoke Plume Detection with Deep Ensembles},
+author={Annabel Wade and Rey Koki and Christina Kumler-Bonfanti and Dale Durran},
+booktitle={4th ICLR Workshop on Machine Learning for Remote Sensing (Tiny Track)},
+year={2026},
+url={https://openreview.net/forum?id=WdrjIAdhmp}
+}
+```
 
 ## Repo Structure
 
